@@ -9,7 +9,7 @@ This repository offers you recipes based on the main ingredient you have.
 - Copy your Application ID and change the value of APP_ID variables on the `src>App.js` file
 - Copy your Application Key and change the value of APP_KEY variables on `src>App.js` file
 
-
+## To run the app
 - Open your terminal
 - Declare `recipe-app-reactjs` path. (That you already download to your device.)
 - Run `npm-start` command
