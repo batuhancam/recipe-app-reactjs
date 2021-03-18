@@ -13,4 +13,3 @@ This repository offers you recipes based on the main ingredient you have.
 - Open your terminal
 - Declare `recipe-app-reactjs` path. (That you already download to your device.)
 - Run `npm-start` command
-- Deneme
