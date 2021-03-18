@@ -25,6 +25,8 @@ const App = () =>{
     console.log(data.hits);
   }
 
+
+  
   
   const updateSearch = (e) =>{
     setSearch(e.target.value);
